@@ -1,1 +1,1 @@
-# dist-ncia-capitais
+# distância-capitais
