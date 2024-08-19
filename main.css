@@ -1,0 +1,31 @@
+table, tr, td{
+    border: 1px solid black;
+}
+.cidades{
+    background-color: rgb(29, 29, 80);
+}
+table, tr, td{
+    border: solid 1px rgb(255, 0, 0);
+    border-collapse: collapse;
+}
+ 
+.largura{
+    background-color: rgb(255, 142, 142);
+    color: rgb(0, 0, 0);
+}
+ 
+.largcoluna{
+    width: 159px;
+}
+ 
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+ 
+#sl {
+    width: 150px;
+}
+#sp {
+    width: 200px;
+}
+ 
