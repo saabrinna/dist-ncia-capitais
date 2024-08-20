@@ -34,7 +34,12 @@ tr:first-child {
     color: white;
 }
 
+tr:last-child {
+    background-color: #4c93af;
+    color: white;
+}
 
 tr:first-child td {
     font-weight: bold;
 }
+
