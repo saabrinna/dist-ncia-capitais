@@ -20,6 +20,8 @@ capitais. As capitais constantes nesse projeto são:
 * MANAUS
 * NATAL
 * PALMAS
+### Resultado do projeto
+![Resultado final do projeto]!
 
 ## Tecnologia
 * HTML5
@@ -34,7 +36,7 @@ Como escrever um README incrível no seu Github.
 
 ## Autor(a)
 O projeto foi desenvolvido pelo grupo:
-
+88++++++++++++++++++++++
 * Sabrina Cardoso;
 * Ana Laura Matos;
 * Willian Baracho;
