@@ -21,7 +21,18 @@ capitais. As capitais constantes nesse projeto são:
 * NATAL
 * PALMAS
 ### Resultado do projeto
-![Resultado final do projeto]!
+
+#### Tabela
+* table- O elemento <table> HTML representa dados tabulares — isto é, informações apresentadas em uma tabela bidimensional composta por linhas e colunas de células contendo dados .
+
+* tr-A etiqueta <tr> que significa table row é usada para definir uma linha.
+
+* td-A etiqueta <td> que significa table data é usada para definir uma célula.
+
+
+#### Estilo
+
+![Resultado final do projeto](img/Resultado-final.PNG)
 
 ## Tecnologia
 * HTML5
@@ -36,7 +47,7 @@ Como escrever um README incrível no seu Github.
 
 ## Autor(a)
 O projeto foi desenvolvido pelo grupo:
-88++++++++++++++++++++++
+
 * Sabrina Cardoso;
 * Ana Laura Matos;
 * Willian Baracho;
